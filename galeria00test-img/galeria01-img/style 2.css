@@ -1,0 +1,15 @@
+h1{
+    BACKGROUND-COLOR: PURPLE;
+    COLOR: white;
+    PADDING:16px;
+    text-align: CENTER;
+}
+h2{
+    BACKGROUND-COLOR: black;
+    COLOR: white;
+    text-align: CENTER;
+}
+img{
+    display:block;
+    margin: auto;
+}
