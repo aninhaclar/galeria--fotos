@@ -1,6 +1,6 @@
 # galeria--fotos
 
-![](./galeia04.pngpng)
+![](./galeriia.png)
 
 ---
 ## Sobre
